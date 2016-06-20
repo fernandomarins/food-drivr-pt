@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>FACEBOOK_API_APP_ID</key>
+	<string>&lt;INSERT VALUE HERE&gt;</string>
+	<key>FACEBOOK_API_DIPLAY_NAME</key>
+	<string>&lt;INSERT VALUE HERE&gt;</string>
+	<key>DRIVR_API_CLIENT_ID</key>
+	<string>&lt;INSERT VALUE HERE&gt;</string>
+	<key>DRIVR_API_CLIENT_SECRET</key>
+	<string>&lt;INSERT VALUE HERE&gt;</string>
+	<key>DRIVR_API_BASE_URL</key>
+	<string>asdasdass</string>
+	<key>TWITTER_API_APP_KEY</key>
+	<string>nEg1ijD9dMyVS9BmOLzcElq0U</string>
+	<key>TWITTER_API_CONSUMER_SECRET</key>
+	<string>gaDdYCMCyIQ6ccwlQAgc4dwrLV9q14G7KMh0J6ydd9rp3UR57k</string>
+</dict>
+</plist>
