@@ -1,6 +1,6 @@
 Food Drivr iOS App
 
-I am creating an international version of this app so people can use it in other languages and continue to help others!
+## I am creating an international version of this app so people can use it in other languages and continue to help others!
 
 ## Getting Started
 You will need to have cocopods installed to install a number of dependencies.
